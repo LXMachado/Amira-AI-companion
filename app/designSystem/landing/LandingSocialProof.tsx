@@ -21,7 +21,7 @@ export const LandingSocialProof: React.FC<Props> = ({ logos }) => {
             <img
               className="h-6 md:h-10"
               key={`logo-${idx}`}
-              src={logo.url}
+              src={"https://imgur.com/a/metal-TzFrDTw.png"}
               alt="landing social logo"
             />
           ))}
